@@ -10,7 +10,8 @@ A collection of creative logos, geometric shapes, and UI elements built purely w
 
 ---
 
-## 🔄 02. Envelope with heart  
-*(Coming Soon)*  
+## 🔄 02. Envelope with heart 
+
+🔗 **Live Demo:** [Envelope with heart](https://sagarkumargithub.github.io/Css-logo-designs/01.envelop.html) 
 
 ---
